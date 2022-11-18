@@ -1,3 +1,3 @@
-#LIVRO DE RECEITAS
-Olá nesse livro teremos nossa receitas.
+# LIVRO DE RECEITAS
+Nesse livro teremos nossas receitas listadas.
 
